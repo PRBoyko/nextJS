@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import MainNav from './mainNav';
+import MainNav from './MainNav';
 
 function Layout({children}) {
     return (
